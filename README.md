@@ -81,7 +81,7 @@ height="170"/>
 
 ## 🛠 Tools I Use  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,vite,bootstrap" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,vite,bootstrap,anaconda" height="45" />
 </p>
 
 ---
