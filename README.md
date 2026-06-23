@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 - Aspiring Full-Stack Developer  
-- MERN + Django + AI Projects  
+- MERN + Next.js & TypeScript + AI Projects  
 - Passionate about real-world problem solving
 - Email: **aryandhiman2605@gmail.com**  
 - LinkedIn: **www.linkedin.com/in/aryan-dhiman-2605ad**
@@ -24,19 +24,22 @@
 
 ---
 
-## ⚡ GitHub Streak 
-<p align="center"> 
-    <img src="https://streak-stats.demolab.com?user=aryandhiman01&theme=tokyonight&hide_border=true&border_radius=12&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFFFFF&dates=8B949E" /> 
+## ⚡ GitHub Activity
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=aryandhiman01&theme=tokyonight&hide_border=true&border_radius=12&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFFFFF&dates=8B949E" />
+
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryandhiman01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
---- 
+---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Analytics
+
 <p align="center">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryandhiman01&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" /> 
-    <img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryandhiman01&theme=tokyonight" 
-height="170"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aryandhiman01&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryandhiman01&theme=tokyonight" height="170"/>
 </p>
 
 ---
