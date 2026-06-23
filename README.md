@@ -61,24 +61,8 @@
 ---
 
 ## 🧰 Tech Stack
-<p align="center">    
-    <img src="https://skillicons.dev/icons?i=react" height="60" />
-    <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-    <img src="https://skillicons.dev/icons?i=typescript" height="60" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
-    <img src="https://skillicons.dev/icons?i=express" height="60" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="60" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="60" />
-    <img src="https://skillicons.dev/icons?i=prisma" height="60" />
-    <img src="https://skillicons.dev/icons?i=python" height="60" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="60" />
-    <img src="https://skillicons.dev/icons?i=js" height="60" />
-    <img src="https://skillicons.dev/icons?i=c" height="60" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="60" />
-    <img src="https://skillicons.dev/icons?i=java" height="60" />
-    <img src="https://skillicons.dev/icons?i=html" height="60" />
-    <img src="https://skillicons.dev/icons?i=css" height="60" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,postgres,prisma,python,mysql,js,c,cpp,java,html,css,tailwind&perline=17" />
 </p>
 
 ---
