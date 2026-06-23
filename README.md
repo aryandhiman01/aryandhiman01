@@ -59,22 +59,23 @@ height="170"/>
 
 ## 🧰 Tech Stack
 <p align="center">    
-    <img src="https://skillicons.dev/icons?i=react" height="70" />   
-    <img src="https://skillicons.dev/icons?i=next" height="70" />  
-    <img src="https://skillicons.dev/icons?i=nodejs" height="70" />   
-    <img src="https://skillicons.dev/icons?i=express" height="70" />   
-    <img src="https://skillicons.dev/icons?i=mongodb" height="70" />   
-    <img src="https://skillicons.dev/icons?i=postgres" height="70" />   
-    <img src="https://skillicons.dev/icons?i=python" height="70" />   
-    <img src="https://skillicons.dev/icons?i=django" height="70" />   
-    <img src="https://skillicons.dev/icons?i=mysql" height="70" />   
-    <img src="https://skillicons.dev/icons?i=js" height="70" />   
-    <img src="https://skillicons.dev/icons?i=c" height="70" />   
-    <img src="https://skillicons.dev/icons?i=cpp" height="70" />   
-    <img src="https://skillicons.dev/icons?i=java" height="70" />   
-    <img src="https://skillicons.dev/icons?i=html" height="70" />   
-    <img src="https://skillicons.dev/icons?i=css" height="70" />   
-    <img src="https://skillicons.dev/icons?i=tailwind" height="70" />  
+    <img src="https://skillicons.dev/icons?i=react" height="70" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="70" />
+    <img src="https://skillicons.dev/icons?i=typescript" height="70" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="70" />
+    <img src="https://skillicons.dev/icons?i=express" height="70" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="70" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="70" />
+    <img src="https://skillicons.dev/icons?i=prisma" height="70" />
+    <img src="https://skillicons.dev/icons?i=python" height="70" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="70" />
+    <img src="https://skillicons.dev/icons?i=js" height="70" />
+    <img src="https://skillicons.dev/icons?i=c" height="70" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="70" />
+    <img src="https://skillicons.dev/icons?i=java" height="70" />
+    <img src="https://skillicons.dev/icons?i=html" height="70" />
+    <img src="https://skillicons.dev/icons?i=css" height="70" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="70" />
 </p>
 
 ---
